@@ -137,7 +137,7 @@ The endpoint `GET /api/graph/recommendations/{personId}` currently returns a fla
 
 ### Demo Video
 
-[Watch the WEXA SkillGraph Demo](https://drive.google.com/file/d/1fBi4KACiCX5xImpiQmefmKasLXNj2GrP/view?usp=sharing)
+[Watch the WEXA SkillGraph Demo](https://drive.google.com/file/d/1rvAiCc6HuYECWe70o1d0oel5dHzSS-VH/view?usp=sharing) *(Recorded against the live hosted deployment)*
 
 For the requested assignment screen recording, we recommend the following flow:
 1. **Start** on the Dashboard to prove the application is running and the database is seeded.
