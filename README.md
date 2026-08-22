@@ -4,6 +4,12 @@
 SkillGraph is a developer skill and job exploration platform built on top of CognoDB, a graph database. 
 It allows users to explore developers, skills, and open jobs via a graph structure, demonstrating advanced graph traversal recommendations. The frontend is a polished, professional React application that provides a responsive and intuitive interface for navigating these connections.
 
+## Live Demo
+- Frontend (live app): https://wexa-skillgraph-frontend.onrender.com
+- Backend (API health check): https://wexa-skillgraph-backend.onrender.com/api/health
+
+*This app is hosted on Render's free tier. If the backend has been inactive, the first request may take up to 50 seconds to respond while the service wakes up. Subsequent requests will be fast.*
+
 ## Architecture
 - **Backend:** Java 21, Spring Boot 3.x, REST APIs.
 - **Database:** CognoDB (Neo4j compatible) via Official Neo4j Java Driver (Bolt protocol).
